@@ -1,3 +1,5 @@
+# Gray Code (n-bit) - 5ms
+
 An **n-bit gray code** sequence is a sequence of 2^n integers where:
 
 Every integer is in the inclusive range [0, 2^n - 1],
